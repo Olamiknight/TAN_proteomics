@@ -18,7 +18,9 @@ Install modules in terminal
 ```
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+![image](https://github.com/Olamiknight/TAN_proteomics/assets/85569620/5ab3e2c6-efd3-4c25-8582-029b97cbbe2f)
+![image](https://github.com/Olamiknight/TAN_proteomics/assets/85569620/6dd0d1a2-6061-4673-821c-35ae9688c5bc)
+![image](https://github.com/Olamiknight/TAN_proteomics/assets/85569620/6dd0d1a2-6061-4673-821c-35ae9688c5bc)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
